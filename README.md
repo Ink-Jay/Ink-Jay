@@ -20,7 +20,6 @@
 </h1>
 
 ---
-### :woman_technologist: About Me :
--👨‍💻 I'm Agnetta Khasamani.
+### :woman_technologist: About Me : I'm Agnetta Khasamani.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I code in Java and Javascript.
 - :seedling:I am exploring Spring Boot.
